@@ -1,27 +1,27 @@
 # News challenge
 
-* Project scaffold from here:https://github.com/makersacademy/javascript-web-applications/blob/main/resources/example-1.zip
+* Project scaffold from here: https://github.com/makersacademy/javascript-web-applications/blob/main/resources/example-1.zip
 
 
 ## Challenge
 
-As usual please start by forking this repo.
+Started by forking this repo: https://github.com/makersacademy/news-summary-challenge
 
-You'll create an app that shows the latest news using the Guardian API. You'll find
-instructions on how to setup and use the API down this page.
+Create an app that shows the latest news using the Guardian API. 
+Find instructions on how to setup and use the API down this page.
 
 ## Project overview
 
-Your app will grab all the headlines from the Guardian newspaper API and display them on a
+The app will grab all the headlines from the Guardian newspaper API and display them on a
 page. Clicking on a headline will link the user to the actual article page on the Guardian's website.
 
 ### Technologies
 
-You'll write a single page web app. You'll write your code in frontend JavaScript, CSS and
-HTML. You won't use Ruby or backend JavaScript.
+Single page web app. 
+Code in frontend JavaScript, CSS and HTML. 
+<!-- You won't use Ruby or backend JavaScript. -->
 
-You're strongly encouraged to use the same tools and libraries you've been learning this
-week:
+Same tools and libraries from this week:
  * Jest to write your tests
  * The [`jest-fetch-mock`](https://www.npmjs.com/package/jest-fetch-mock) module (or
    similar) to mock `fetch` requests (so you don't request the API when running tests!)
@@ -185,13 +185,3 @@ The above request will return a response similar to this one:
 * cURL [man page](https://curl.haxx.se/docs/manpage.html)
 * [Postman](https://www.postman.com/downloads/?utm_source=postman-home), a program to send and test HTTP requests
 
-
-<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
-
----
-
-**How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/news-summary-challenge&prefill_File=README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/news-summary-challenge&prefill_File=README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/news-summary-challenge&prefill_File=README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/news-summary-challenge&prefill_File=README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/news-summary-challenge&prefill_File=README.md&prefill_Sentiment=😀)  
-Click an emoji to tell us.
-
-<!-- END GENERATED SECTION DO NOT EDIT -->
