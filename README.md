@@ -1,11 +1,7 @@
 # News challenge
 
-* Feel free to use Google, your notes, books, etc. but work on your own.
-* If you refer to the solution of another coach or student, please put a link to that in
-  your README.
-* If you have a partial solution, **still check in a partial solution** and send in a pull
-  request.
-* You must submit a pull request to this repo with your code by 10am Monday morning.
+* Project scaffold from here:https://github.com/makersacademy/javascript-web-applications/blob/main/resources/example-1.zip
+
 
 ## Challenge
 
