@@ -2,6 +2,7 @@
 
 * Project scaffold from here: https://github.com/makersacademy/javascript-web-applications/blob/main/resources/example-1.zip
 
+* Install jest in the project directory with npm install --save jest
 
 ## Challenge
 
